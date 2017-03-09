@@ -41,6 +41,7 @@ public class ScannerUtils {
         ImageConverter converter = new ImageConverter(b);
         converter.convertToGray8();
         /* YOUR CODE HERE */
+        /* Note this is completely optional as there is already an api for it */
 
         return null;
     }
